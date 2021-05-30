@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333867946549",
+    "project_id": "messenger-2d0a4",
+    "storage_bucket": "messenger-2d0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333867946549:android:29a3d7f9748e54033b577c",
+        "android_client_info": {
+          "package_name": "kampfire.verify.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333867946549-d0md5smv06c493fk6uqe3q22532stqig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP7S6_-E7Xy3o2_wCAWukvVvqtNLeXZmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333867946549-d0md5smv06c493fk6uqe3q22532stqig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
